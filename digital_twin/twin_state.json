@@ -1,0 +1,18 @@
+{
+    "system_name": "AI Box Inspection Digital Twin",
+    "sample_id": 100,
+    "last_updated": "2026-11-25T15:52:48",
+    "physical_system": {
+        "accelerometer": {
+            "x": 0.2584723196867786,
+            "y": -0.09906277138035671,
+            "z": 9.867946577515202
+        },
+        "sound_level": 48.465085740250295,
+        "piezo_response": 1.5106323490734435
+    },
+    "ai_analysis": {
+        "prediction": 1,
+        "status": "Normal response"
+    }
+}
